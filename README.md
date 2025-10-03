@@ -9,3 +9,5 @@ I am passionate about leveraging data to solve complex problems and create effic
 As I build my academic foundation, I apply cutting-edge concepts to real-world projects, constantly seeking opportunities to grow my skills in data science, information technology, and database management.
 
 Feel free to explore my repositories to see examples of my technical capabilities and project-based learning. I am currently available for freelance work, educational opportunities, and collaborations.
+
+You can reach me at __**azoramoonbusiness@gmail.com**__
